@@ -1,0 +1,2 @@
+# AetherMinions
+Minion plugin
